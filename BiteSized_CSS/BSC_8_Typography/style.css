@@ -1,0 +1,14 @@
+body {
+  font-size: 16px;
+}
+
+p {
+  font-size: 2rem;
+  font-family: Arial, Courier;
+}
+
+.keypoint {
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: underline;
+}
