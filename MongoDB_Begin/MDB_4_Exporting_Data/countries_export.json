@@ -1,0 +1,4 @@
+{"_id":"001","name":"france","continent":"europe","population":{"$numberInt":"67"}}
+{"_id":"002","name":"germany","continent":"europe","population":{"$numberInt":"83"}}
+{"_id":"003","name":"united states","continent":"north america","population":{"$numberInt":"326"}}
+{"_id":"004","name":"japan","continent":"asia","population":{"$numberInt":"127"}}

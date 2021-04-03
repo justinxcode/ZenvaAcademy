@@ -1,0 +1,4 @@
+{"_id" : "001", "name" : "paris", "country" : "france", "population" : 2.2}
+{"_id" : "002", "name" : "new york", "country" : "united states", "population" : 8.5}
+{"_id" : "003", "name" : "berlin", "country" : "germany", "population" : 3.5}
+{"_id" : "004", "name" : "melbourne", "country" : "australia", "population" : 4.9}

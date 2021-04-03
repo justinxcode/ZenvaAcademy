@@ -1,0 +1,8 @@
+<html>
+  <head>
+  </head>
+  <body>
+    <h1>This is the {{name}} Template</h1>
+    <p>Today is {{date}}</p>
+  </body>
+</html>
